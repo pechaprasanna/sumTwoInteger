@@ -1,0 +1,20 @@
+.head{
+	color: blue;
+	text-align: center;
+	background-color: yellow;
+}
+
+.container, .btn, .ans{
+	display: flex;
+	justify-content: center;
+	padding: 20px 20px 20px 20px;
+}
+
+.plus, .btn, .ans{
+	margin: 20px;
+}
+
+.ans{
+	border: double;
+	border-color: green;
+}
